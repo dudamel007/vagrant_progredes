@@ -26,7 +26,7 @@ Este projeto demonstra a criação automatizada de duas máquinas virtuais utili
   - Recebe um IP dinâmico via DHCP.
   - Configura o **firewall** como gateway padrão para roteamento de tráfego.
     
-## 📥 Baixar o projeto pronto
+## Baixar o projeto pronto
 
 Você pode baixar o projeto compactado diretamente aqui:  
 🔗 [Download projetto-iac.rar](https://github.com/dudamel007/vagrant_progredes/raw/main/projetto-iac.rar)
